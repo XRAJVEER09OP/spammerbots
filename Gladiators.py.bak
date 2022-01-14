@@ -188,8 +188,8 @@ async def gladiators_bots():
             await Bot1.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot1(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot1(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
-            await Bot1(functions.channels.JoinChannelRequest(channel="@RAJVEERSPAMBOT"))
+            await Bot1(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot1(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
         except:
             try:
                 print("Got String Session 01!")
@@ -214,8 +214,8 @@ async def gladiators_bots():
             await Bot2.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot2(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot2(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
-            await Bot2(functions.channels.JoinChannelRequest(channel="@RAJVEERSPAMBOT"))
+            await Bot2(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
+            await Bot2(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
                 print("Got String Session 02!")
@@ -240,7 +240,7 @@ async def gladiators_bots():
             await Bot3.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot3(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot3(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot3(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot3(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -266,7 +266,7 @@ async def gladiators_bots():
             await Bot4.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot4(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot4(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot4(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot4(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -292,7 +292,7 @@ async def gladiators_bots():
             await Bot5.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot5(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot5(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot5(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot5(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -318,7 +318,7 @@ async def gladiators_bots():
             await Bot6.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot6(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot6(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot6(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot6(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -344,7 +344,7 @@ async def gladiators_bots():
             await Bot7.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot7(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot7(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot7(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot7(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -370,7 +370,7 @@ async def gladiators_bots():
             await Bot8.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot8(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot8(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot8(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot8(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -396,7 +396,7 @@ async def gladiators_bots():
             await Bot9.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot9(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot9(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot9(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot9(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -422,7 +422,7 @@ async def gladiators_bots():
             await Bot10.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot10(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot10(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot10(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot10(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -448,7 +448,7 @@ async def gladiators_bots():
             await Bot11.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot11(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot11(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot11(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot11(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -474,7 +474,7 @@ async def gladiators_bots():
             await Bot12.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot12(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot12(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot12(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot12(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -500,7 +500,7 @@ async def gladiators_bots():
             await Bot13.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot13(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot13(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot13(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot13(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -526,7 +526,7 @@ async def gladiators_bots():
             await Bot14.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot14(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot14(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot14(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot14(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -552,7 +552,7 @@ async def gladiators_bots():
             await Bot15.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot15(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot15(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot15(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot15(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -578,7 +578,7 @@ async def gladiators_bots():
             await Bot16.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot16(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot16(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot16(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot16(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -604,7 +604,7 @@ async def gladiators_bots():
             await Bot17.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot17(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot17(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot17(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot17(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -630,7 +630,7 @@ async def gladiators_bots():
             await Bot18.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot18(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot18(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot18(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot18(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -656,7 +656,7 @@ async def gladiators_bots():
             await Bot19.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot19(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot19(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot19(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot19(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -682,7 +682,7 @@ async def gladiators_bots():
             await Bot20.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot20(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot20(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot20(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot20(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -708,7 +708,7 @@ async def gladiators_bots():
             await Bot21.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot21(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot21(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot21(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot21(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -734,7 +734,7 @@ async def gladiators_bots():
             await Bot22.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot22(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot22(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot22(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot22(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -760,7 +760,7 @@ async def gladiators_bots():
             await Bot23.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot23(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot23(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot23(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot23(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -786,7 +786,7 @@ async def gladiators_bots():
             await Bot24.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot24(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot24(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot24(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot24(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -812,7 +812,7 @@ async def gladiators_bots():
             await Bot25.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot25(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot25(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot25(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot25(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -838,7 +838,7 @@ async def gladiators_bots():
             await Bot26.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot26(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot26(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot26(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot26(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -864,7 +864,7 @@ async def gladiators_bots():
             await Bot27.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot27(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot27(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot27(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot27(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -890,7 +890,7 @@ async def gladiators_bots():
             await Bot28.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot28(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot28(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot28(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot28(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -916,7 +916,7 @@ async def gladiators_bots():
             await Bot29.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot29(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot29(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot29(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot29(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -942,7 +942,7 @@ async def gladiators_bots():
             await Bot30.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot30(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot30(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot30(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot30(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -968,7 +968,7 @@ async def gladiators_bots():
             await Bot31.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot31(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot31(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot31(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot31(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -994,7 +994,7 @@ async def gladiators_bots():
             await Bot32.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot32(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot32(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot32(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot32(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1020,7 +1020,7 @@ async def gladiators_bots():
             await Bot33.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot33(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot33(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot33(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot33(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1046,7 +1046,7 @@ async def gladiators_bots():
             await Bot34.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot34(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot34(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot34(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot34(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1072,7 +1072,7 @@ async def gladiators_bots():
             await Bot35.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot35(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot35(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot35(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot35(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1098,7 +1098,7 @@ async def gladiators_bots():
             await Bot36.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot36(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot36(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot36(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot36(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1124,7 +1124,7 @@ async def gladiators_bots():
             await Bot37.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot37(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot37(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot37(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot37(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1150,7 +1150,7 @@ async def gladiators_bots():
             await Bot38.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot38(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot38(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot38(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot38(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1176,7 +1176,7 @@ async def gladiators_bots():
             await Bot39.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot39(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot39(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot39(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot39(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1202,7 +1202,7 @@ async def gladiators_bots():
             await Bot40.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot40(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot40(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot40(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot40(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1227,7 +1227,7 @@ async def gladiators_bots():
             await Bot41.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot41(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot41(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot41(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot41(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1253,7 +1253,7 @@ async def gladiators_bots():
             await Bot42.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot42(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot42(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot42(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot42(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1279,7 +1279,7 @@ async def gladiators_bots():
             await Bot43.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot43(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot43(functions.channels.JoinChannelRequest(channel="RAJVEERGODSPAM"))
+            await Bot43(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot43(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1305,7 +1305,7 @@ async def gladiators_bots():
             await Bot44.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot44(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot44(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot44(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot44(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1331,7 +1331,7 @@ async def gladiators_bots():
             await Bot45.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot45(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot45(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot45(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot45(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1357,7 +1357,7 @@ async def gladiators_bots():
             await Bot46.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot46(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot46(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot46(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot46(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1383,7 +1383,7 @@ async def gladiators_bots():
             await Bot47.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot47(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot47(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot47(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot47(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1409,7 +1409,7 @@ async def gladiators_bots():
             await Bot48.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot48(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot48(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot48(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot48(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1435,7 +1435,7 @@ async def gladiators_bots():
             await Bot49.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot49(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot49(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot49(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot49(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1461,7 +1461,7 @@ async def gladiators_bots():
             await Bot50.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot50(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot50(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot50(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot50(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1486,7 +1486,7 @@ async def gladiators_bots():
             await Bot51.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot51(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot51(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot51(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot51(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1512,7 +1512,7 @@ async def gladiators_bots():
             await Bot52.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot52(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot52(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot52(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot52(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1538,7 +1538,7 @@ async def gladiators_bots():
             await Bot53.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot53(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot53(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot53(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot53(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1564,7 +1564,7 @@ async def gladiators_bots():
             await Bot54.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot54(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot54(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot54(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot54(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1590,7 +1590,7 @@ async def gladiators_bots():
             await Bot55.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot55(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot55(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot55(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot55(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1616,7 +1616,7 @@ async def gladiators_bots():
             await Bot56.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot56(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot56(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot56(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot56(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1642,7 +1642,7 @@ async def gladiators_bots():
             await Bot57.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot57(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot57(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot57(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot57(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1668,7 +1668,7 @@ async def gladiators_bots():
             await Bot58.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot58(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot58(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot58(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot58(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1694,7 +1694,7 @@ async def gladiators_bots():
             await Bot59.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot59(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot59(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot59(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot59(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1720,7 +1720,7 @@ async def gladiators_bots():
             await Bot60.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot60(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot60(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot60(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot60(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1745,7 +1745,7 @@ async def gladiators_bots():
             await Bot61.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot61(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot61(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot61(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot61(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1771,7 +1771,7 @@ async def gladiators_bots():
             await Bot62.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot62(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot62(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot62(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot62(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1797,7 +1797,7 @@ async def gladiators_bots():
             await Bot63.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot63(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot63(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot63(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot63(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1823,7 +1823,7 @@ async def gladiators_bots():
             await Bot64.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot64(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot64(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot64(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot64(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1849,7 +1849,7 @@ async def gladiators_bots():
             await Bot65.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot65(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot65(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot65(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot65(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1875,7 +1875,7 @@ async def gladiators_bots():
             await Bot66.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot66(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot66(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot66(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot66(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1901,7 +1901,7 @@ async def gladiators_bots():
             await Bot67.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot67(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot67(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot67(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot67(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1927,7 +1927,7 @@ async def gladiators_bots():
             await Bot68.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot68(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot68(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot68(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot68(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1953,7 +1953,7 @@ async def gladiators_bots():
             await Bot69.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot69(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot69(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot69(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot69(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -1979,7 +1979,7 @@ async def gladiators_bots():
             await Bot70.start()
             mat = "https://t.me/Gladiators_Projects"
             await Bot70(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot70(functions.channels.JoinChannelRequest(channel="@RAJVEERGODSPAM"))
+            await Bot70(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
             await Bot70(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
         except:
             try:
@@ -2064,7 +2064,7 @@ async def ifgif(e, gif):
 # + Help Menu
 
 
-# @RAJVEERSPAMBOT
+# @TeamGladiators
 ##########################################################################################################################
 
 fellows = {}
@@ -2168,7 +2168,7 @@ async def bot_help(e):
 # packspam
 # dspamhang
 
-# @RAJVEERSPAMBOT
+# @TeamGladiators
 ##########################################################################################################################
 
 
@@ -2786,7 +2786,7 @@ async def spam(e):
 # ucurse
 # replycurse
 # dreplycurse
-# @RAJVEERSPAMBOT
+# @TeamGladiators
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True))
@@ -2955,7 +2955,7 @@ async def curse(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in crew:
-                text = f"I can't betray @RAJVEERSPAMBOT's crew."
+                text = f"I can't betray @TeamGladiators's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3106,7 +3106,7 @@ async def curse(e):
                     emror += 1
             try:
                 if boom != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @RAJVEERSPAMBOT crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull multi curse on {boom} users for counter {counter}.**\nList of users who are gonna assaulted: {booms}")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull multi curse on {boom} users for counter {counter}.**\nList of users who are gonna assaulted: {booms}")
                     await asyncio.sleep(3)
                     for i in range(counter):
                         curmse = random.choice(curses)
@@ -3115,7 +3115,7 @@ async def curse(e):
                             await e.client.send_message(e.chat_id, verse)
                             await asyncio.sleep(0.3)
                 elif demv != 0 or sumdo != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @RAJVEERSPAMBOT crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
                 else:
                     await e.reply(usage)
             except Exception as g:
@@ -3237,7 +3237,7 @@ async def curse(e):
                     emror += 1
             try:
                 if boom != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @RAJVEERSPAMBOT crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull unlimited multi curse on {boom}.**\nList of users who are gonna assaulted: {booms}")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull unlimited multi curse on {boom}.**\nList of users who are gonna assaulted: {booms}")
                     await asyncio.sleep(3)
                     xd = 0
                     while xd == 0:
@@ -3247,7 +3247,7 @@ async def curse(e):
                             await e.client.send_message(e.chat_id, verse)
                             await asyncio.sleep(0.3)
                 elif demv != 0 or sumdo != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @RAJVEERSPAMBOT crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
                 else:
                     await e.reply(usage)
             except Exception as g:
@@ -3339,7 +3339,7 @@ async def ucurse(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in crew:
-                text = f"I can't betray @RAJVEERSPAMBOT's crew."
+                text = f"I can't betray @TeamGladiators's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3359,7 +3359,7 @@ async def ucurse(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in crew:
-                text = f"I can't betray @RAJVEERSPAMBOT's crew."
+                text = f"I can't betray @TeamGladiators's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3460,7 +3460,7 @@ async def replycurse(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in crew:
-                text = f"I can't betray @RAJVEERSPAMBOT's crew."
+                text = f"I can't betray @TeamGladiators's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3479,7 +3479,7 @@ async def replycurse(e):
             user_idd = umser.id
             user_id = int(user_idd)
             if int(user_id) in crew:
-                text = f"I can't betray @RAJVEERSPAMBOT's crew."
+                text = f"I can't betray @TeamGladiators's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3580,7 +3580,7 @@ async def dreplycurse(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in crew:
-                text = f"Never started reply and curse on @RAJVEERSPAMBOT's crew."
+                text = f"Never started reply and curse on @TeamGladiators's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 try:
@@ -3599,7 +3599,7 @@ async def dreplycurse(e):
             user_id = int(user_idd)
             name = umser.first_name
             if int(user_id) in crew:
-                text = f"Never started reply and curse on @RAJVEERSPAMBOT's crew."
+                text = f"Never started reply and curse on @TeamGladiators's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 gey = fellows.get(user_id)
@@ -3616,7 +3616,7 @@ async def dreplycurse(e):
 # ping
 # alive
 
-# @RAJVEERSPAMBOT
+# @TeamGladiators
 ##########################################################################################################################
 
 
@@ -3794,7 +3794,7 @@ async def alive(e):
 # usage
 
 
-# @RAJVEERSPAMBOT
+# @TeamGladiators
 ##########################################################################################################################
 
 
@@ -3994,7 +3994,7 @@ async def _(dyno):
         reply_to=dyno.id,
         force_document=True,
         thumb="resources/Gladiators.jpeg",
-        caption="@GlRAJVEERSPAMBOT spammerbots logs.",
+        caption="@Gladiators_Projects spammerbots logs.",
     )
 
     await asyncio.sleep(5)
@@ -4146,7 +4146,7 @@ async def dyno_usage(dyno):
 
 
 
-# @RAJVEERSPAMBOT
+# @TeamGladiators
 ##########################################################################################################################
 
 
@@ -4241,7 +4241,7 @@ async def alive(e):
 #BIO
 
 
-# @RAJVEERGODSPAM
+# @TeamGladiators
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%sbio(?: |$)(.*)" % hn))
@@ -4771,8 +4771,10 @@ async def _(e):
 async def _(e):
     if e.sender_id in DEV_USERS:
         reboot_text = """
-RESTARTING THE BOT 
-PLEASE WAIT 1 MIN
+╔══╗─────╔╦╗──╔╗────╔═╗
+║╔═╬╗╔═╗╔╝╠╬═╗║╚╦═╦╦╣═╣
+║╚╗║╚╣╬╚╣╬║║╬╚╣╔╣╬║╔╬═║
+╚══╩═╩══╩═╩╩══╩═╩═╩╝╚═╝
 
 Rᴇʙᴏᴏᴛɪɴɢ ʙᴏᴛ...
 
@@ -5059,21 +5061,25 @@ Wᴀɪᴛ ғᴏʀ ᴀ ᴡʜɪʟᴇ ᴛᴏ ᴜsᴇ ɪᴛ ᴀɢᴀɪɴ.
             Bot70.disconnect()
         except Exception as e:
             pass
-        args = [sys.executable, "-m", "rajveer.py"]
+        args = [sys.executable, "-m", "Gladiators.py"]
         os.execl(sys.executable, *args)
         quit()
 
 ##########################################################################################################################
 
 gladtext = """
-  STARTING RAJVEER SPAM BOTS                    
-WAIT......
+  ________.__              .___.__        __                       
+ /  _____/|  | _____     __| _/|__|____ _/  |_  ___________  ______
+/   \  ___|  | \__  \   / __ | |  \__  \\   __\/  _ \_  __ \/  ___/
+\    \_\  \  |__/ __ \_/ /_/ | |  |/ __ \|  | (  <_> )  | \/\___ \ 
+ \______  /____(____  /\____ | |__(____  /__|  \____/|__|  /____  >
+        \/          \/      \/         \/                       \/ 
 """
 print(gladtext)
 print("")
 print("")
 print("Rooted successfully...")
-print("Starting RAJVEER SPAMBOTS...")
+print("Starting Gladiators Spammerbots...")
 print("Started....")
 if len(sys.argv) not in (1, 3, 4):
     try:
